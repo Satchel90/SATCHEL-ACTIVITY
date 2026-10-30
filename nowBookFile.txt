@@ -1,0 +1,6 @@
+nowBookFile
+
+manhwa/white and black/mama/1001/false
+manhwa/blue and black/mama/1002/false
+manhwa/blue and white/mama/1003/false
+manhwa/blue and green/mama/1004/false
